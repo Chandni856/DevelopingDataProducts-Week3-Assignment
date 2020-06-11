@@ -1,5 +1,5 @@
 ---
-title: "Developing data products - Week 3 Assignment"
+title: "Developing data product- Week 3 Assignment"
 author: "MassaBrasil"
 date: "29-jan-2018"
 output: ioslides_presentation
