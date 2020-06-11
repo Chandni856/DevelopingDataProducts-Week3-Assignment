@@ -1,4 +1,4 @@
-# Developing Data Products #
+# Developing Data Product #
 
 Repository for JHU Coursera Developing Data Products w3 Assignment
 Peer-graded Assignment: R Markdown Presentation & Plotly
