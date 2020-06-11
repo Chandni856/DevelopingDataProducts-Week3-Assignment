@@ -1,6 +1,5 @@
 ---
 title: "Week 3 Assignment"
-author: "MassaBrasil"
 date: "11 junw 20"
 output: html_document
 ---
